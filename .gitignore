@@ -1,0 +1,14 @@
+*/src/META-INF/
+*/src/main/java/META-INF/
+samples/*/*/src/main/webapp/META-INF/
+target/
+.classpath
+.project
+.DS_Store
+.settings/
+*.iml
+*.iws
+*.ipr
+.idea/
+cargo-installs/
+atlassian-ide-plugin.xml
