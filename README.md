@@ -1,3 +1,5 @@
+Concept for integrating Spring Security with ajax authentication.
+
 =========
 
 Relevant Articles: 
